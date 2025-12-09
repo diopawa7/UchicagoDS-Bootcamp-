@@ -1,0 +1,15 @@
+Introduce self -> hello World
+get personal information input from user -> name, age, address
+ask user to guess a number -> odd vs even 
+
+code print statement for Hello
+Ask user to input name
+
+If user inputs name 
+  tell user thank you and ask for personal information
+If user inputs personal information
+  tell user thank you and tell them to guess a number between 2 and 36
+If user guesses an even number
+  code will tell user that it is a even number
+if user inputs an odd number
+  code will tell user BYE
